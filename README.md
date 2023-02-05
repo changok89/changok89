@@ -21,3 +21,5 @@
 <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-square&logo=AndroidStudio&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 </p>
+
+![changok's GitHub stats](https://github-readme-stats.vercel.app/api?username=spector-89&show_icons=true&theme=github_dark)
