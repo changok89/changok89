@@ -1,6 +1,6 @@
 <p align="left">
-<img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Github&logoColor=white"/>
-<img src="https://img.shields.io/badge/changok1989@gmail.com-000000?style=flat-square&logo=Gmail&logoColor=white"/>
+<a href="https://changok89.github.io"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Github&logoColor=white"/></a>
+<a href="mailto:changok1989@gmail.com"><img src="https://img.shields.io/badge/changok1989@gmail.com-000000?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
 👏 Hi there! I'm mobile app developer using Swift and Kotlin. 🚀 🚀 🚀
