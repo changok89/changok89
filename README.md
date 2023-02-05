@@ -27,6 +27,3 @@
 
 <!-- github stats-->
 ![changok's GitHub stats](https://github-readme-stats.vercel.app/api?username=changok89&show_icons=true&theme=github_dark)
-
-<!-- productive-box-->
-<script src="https://gist.github.com/changok89/7d09a793e6292787d1d4e3e467a0d231.js"></script>
